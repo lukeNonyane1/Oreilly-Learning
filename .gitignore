@@ -1,16 +1,3 @@
 
-deep-learning-with-keras-tensorflow-workshop/Building-Blocks-of-Deep-Learning/.ipynb_checkpoints/activity1.01-solving-quadratic-equation-using-optimizer-checkpoint.ipynb
-deep-learning-with-keras-tensorflow-workshop/Building-Blocks-of-Deep-Learning/.ipynb_checkpoints/exercise1.03-matrix-multiplication-using-tensorflow-checkpoint.ipynb
-deep-learning-with-keras-tensorflow-workshop/Building-Blocks-of-Deep-Learning/.ipynb_checkpoints/exercise1.04-reshaping-matrices-using-reshape-function-in-tensorflow-checkpoint.ipynb
-deep-learning-with-keras-tensorflow-workshop/Building-Blocks-of-Deep-Learning/.ipynb_checkpoints/exercise1.05-implementing-argmax-function-checkpoint.ipynb
-deep-learning-with-keras-tensorflow-workshop/Building-Blocks-of-Deep-Learning/.ipynb_checkpoints/exercise1.06-using-optimizer-for-simple-linear-regression-checkpoint.ipynb
-deep-learning-with-keras-tensorflow-workshop/.DS_Store
-deep-learning-with-keras-tensorflow-workshop/.DS_Store
-deep-learning-with-keras-tensorflow-workshop/ch2-neural-networks/.ipynb_checkpoints/Exercise2.02-checkpoint.ipynb
-deep-learning-with-keras-tensorflow-workshop/.DS_Store
-deep-learning-with-keras-tensorflow-workshop/ch2-neural-networks/.ipynb_checkpoints/exercise2.03-multi-class-classification-using-perceptron-checkpoint.ipynb
-deep-learning-with-keras-tensorflow-workshop/ch2-neural-networks/.ipynb_checkpoints/exercise2.04-classifying-handwritten-digits-checkpoint.ipynb
-deep-learning-with-keras-tensorflow-workshop/ch2-neural-networks/.ipynb_checkpoints/exercise2.05-binary-classification-using-keras-checkpoint.ipynb
-deep-learning-with-keras-tensorflow-workshop/ch2-neural-networks/.ipynb_checkpoints/exercise2.06-multilayer-binary-classifier-checkpoint.ipynb
-deep-learning-with-keras-tensorflow-workshop/.DS_Store
-deep-learning-with-keras-tensorflow-workshop/*checkpoints*
+*.ipynb_checkpoints*
+*.DS_Store*
